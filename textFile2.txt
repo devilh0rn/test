@@ -4,3 +4,5 @@ tadaaa
 trying to create a conflict now.
 Jon added this line ****Conflict has been resolved now***
 as you say jon..lets do it!
+lets try using automated tools. ***we failed***
+
